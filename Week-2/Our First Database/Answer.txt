@@ -1,0 +1,3 @@
+Run this command to get Answer : SELECT hex(name || age) AS X FROM Ages ORDER BY X
+
+Answer : 43616365796C65653339
